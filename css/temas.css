@@ -260,14 +260,23 @@ iframe{
 	
 }
 
+.Contacto{
+	margin-top:200px
+}
 .Contacto p{
 	text-align: center;
 	color: white;
 }
 
+.Nosotros{
+	margin-top:50px;
+	margin-bottom:100px;
+}
+
 .Nosotros h2{
 	text-align: center;
 	color: white;
+	
 }
 
 .Nosotros p{
@@ -275,4 +284,5 @@ iframe{
 	margin-left:  90px;	
 	text-align: justify;
 	color: white;
+	font-size:xx-large;
 }
